@@ -1,0 +1,25 @@
+{
+  "name": "crud_purchase_jest",
+  "version": "1.0.0",
+  "description": "Combined CRUD and Product Purchase modules with Jest tests",
+  "main": "crud.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "CRUD",
+    "Jest",
+    "Testing",
+    "Node.js",
+    "Purchase"
+  ],
+  "author": "Aniruddha Guha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "@mallikgalibshahriar/failsafe-report": "^1.1.0"
+  }
+}
